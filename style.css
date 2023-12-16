@@ -6,3 +6,10 @@
 }
 #header {
 }
+.services-box {
+  padding: 30px;
+  border-radius: 20px;
+  border: none;
+  background-color: #23c4e8;
+  text-align: center;
+}
