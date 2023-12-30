@@ -21,3 +21,8 @@
   max-height: 7.2em;
   line-height: 1.8em;
 }
+.experience-box {
+  padding: 30px;
+  border-radius: 20px;
+  border: none;
+  background-color: #c9c7c7;
