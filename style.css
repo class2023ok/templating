@@ -1,9 +1,21 @@
-.nav-link {
-  color: white !important;
-}
 .nav-link:hover {
   color: grey !important;
 }
+.nav-link.active {
+  background: none !important;
+  color: #23c4e8 !important;
+}
+.nav-link {
+  color: grey;
+  padding: 0 40px 0 0 !important;
+}
+.menu {
+  color: white;
+}
+.menu:hover {
+  color: grey;
+}
+
 #header {
 }
 .services-box {
@@ -26,3 +38,4 @@
   border-radius: 20px;
   border: none;
   background-color: #c9c7c7;
+}
